@@ -6,7 +6,7 @@
 If you want to get in touch:
 
 - me@alecminch.dev
-- [twitter](https://twitter.com/minnchy)
+- [twitter](https://twitter.com/minnnchy)
 
 
 <!--

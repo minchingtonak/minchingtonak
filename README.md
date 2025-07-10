@@ -1,4 +1,4 @@
-# 🌱 Hello! I'm Alec :) (he/him) 🌱
+# 🌱 Hello! I'm Alec :) 🌱
 
 **Full-stack Engineer @ AWS | CS @ University of Michigan '22 | Seattle, WA**
 

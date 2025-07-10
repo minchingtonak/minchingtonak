@@ -1,6 +1,6 @@
 # 🌱 Hello! I'm Alec :) (he/him) 🌱
 
-**Full-stack Engineer @ Amazon | CS @ University of Michigan '22 | Seattle, WA**
+**Full-stack Engineer @ AWS | CS @ University of Michigan '22 | Seattle, WA**
 
 I'm passionate about building elegant software solutions and exploring the intersection of programming languages, AI, and web technologies. I love sharing knowledge and helping others learn through code.
 

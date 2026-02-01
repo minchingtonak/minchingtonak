@@ -1,15 +1,15 @@
 # 🌱 Hello! I'm Alec :) 🌱
 
-**Full-stack Engineer @ AWS | CS @ University of Michigan '22 | Seattle, WA**
+**Full-stack Engineer @ AWS | CS @ University of Michigan '22 | Detroit, MI**
 
-I'm passionate about building elegant software solutions and exploring the intersection of programming languages, AI, and web technologies. I love sharing knowledge and helping others learn through code.
+I'm passionate about building elegant software solutions and exploring the intersection of programming languages and web technologies. I love sharing knowledge and helping others learn through code.
 
 ## Interests
 
 - **Frontend Development**: Building modern web applications with TypeScript, React, and Next.js
-- **Programming Languages**: Implementing interpreters and compilers (currently revamping [lambster](https://github.com/minchingtonak/lambster))
-- **AI & Machine Learning**: Experimenting with and developing and AI-powered applications
 - **Teaching & Education**: Creating educational content and mentoring fellow developers
+- **Programming Languages**: Implementing interpreters and compilers (currently revamping [lambster](https://github.com/minchingtonak/lambster))
+- **AI**: Experimenting with and developing and AI-powered applications
 
 ## Wanna chat?
 

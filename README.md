@@ -1,6 +1,6 @@
 # 🌱 Hello! I'm Alec :) 🌱
 
-**Full-stack Engineer @ AWS | CS @ University of Michigan '22 | Detroit, MI**
+**Full-stack Engineer @ Rocket Loans | CS @ University of Michigan '22 | Detroit, MI**
 
 I'm passionate about building elegant software solutions and exploring the intersection of programming languages and web technologies. I love sharing knowledge and helping others learn through code.
 
